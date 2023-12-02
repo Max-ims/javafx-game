@@ -1,4 +1,4 @@
-# javafx-game
+# crystal-rush
 
 
 # Request Changes Rules:
