@@ -22,7 +22,7 @@ import javafx.scene.text.Text;
 
 
 public class Main extends Application {
-	
+	//
 	private static Stage stage;
 	
 	public static void main(String[] args) {
